@@ -1,3 +1,4 @@
+# I got help from ChatGPT
 import numpy as np
 from scipy.stats import norm
 
