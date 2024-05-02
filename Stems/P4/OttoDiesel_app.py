@@ -1,3 +1,4 @@
+# I got help from ChatGPT
 #region imports
 from OttoDiesel_GUI import Ui_Form
 from PyQt5 import uic
