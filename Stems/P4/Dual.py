@@ -1,3 +1,4 @@
+# I got help from ChatGPT
 import sys
 import numpy as np
 from PyQt5 import QtWidgets as qtw
