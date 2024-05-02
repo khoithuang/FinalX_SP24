@@ -1,3 +1,4 @@
+# I got help from ChatGPT
 #region imports
 import math
 import random as rnd
