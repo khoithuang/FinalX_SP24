@@ -19,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -29,35 +30,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Air.executor": "Run",
-    "Python.Diesel.executor": "Run",
-    "Python.Dual.executor": "Run",
-    "Python.OttoDiesel_app.executor": "Run",
-    "Python.P1_Control_app.executor": "Run",
-    "Python.Polymer.executor": "Run",
-    "Python.Problem1.executor": "Run",
-    "Python.QuarterCarModel.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/khoithuang/PycharmProjects/FinalX"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Air.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Diesel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OttoDiesel_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P1_Control_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Polymer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Problem1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QuarterCarModel.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/khoithuang/PycharmProjects/FinalX&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Dual">
+  <component name="RunManager" selected="Python.Polymer">
     <configuration name="Air" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FinalX" />
       <option name="ENV_FILES" value="" />
@@ -146,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="QuarterCarModel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Polymer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FinalX" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stems/P3/QCM-with-accel" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stems/P2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stems/P3/QCM-with-accel/QuarterCarModel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stems/P2/Polymer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Polymer" />
         <item itemvalue="Python.Dual" />
         <item itemvalue="Python.Diesel" />
         <item itemvalue="Python.Air" />
         <item itemvalue="Python.OttoDiesel_app" />
-        <item itemvalue="Python.QuarterCarModel" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +241,31 @@
       <option name="project" value="LOCAL" />
       <updated>1714606296248</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="FXSP24">
+      <option name="closed" value="true" />
+      <created>1714611162922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714611162922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="FXSP24">
+      <option name="closed" value="true" />
+      <created>1714680517571</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714680517571</updated>
+    </task>
+    <task id="LOCAL-00006" summary="FXSP24">
+      <option name="closed" value="true" />
+      <created>1714680574374</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714680574374</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
